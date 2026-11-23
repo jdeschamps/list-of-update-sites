@@ -577,6 +577,17 @@ sites:
     maintainers:
       - "[Carsten Hammer](https://github.com/carstenartur)"
 
+  - name: "CAREamics"
+    id: "CAREamics"
+    url: "https://sites.imagej.net/CAREamics/"
+    description: >-
+      Noise2Void self-supervised denoising training and prediction via
+      [CAREamics](https://careamics.github.io). Training is better
+      suited for GPU-enabled computers.
+    maintainers:
+      - "[Mehdi Seifi](mailto:mehdi.seifi@fht.org)"
+      - "[Joran Deschamps](mailto:joran.deschamps@gfht.org)"
+
   - name: "CATS"
     id: "CATS"
     url: "https://sites.imagej.net/CATS/"
